@@ -1,1 +1,1 @@
-# Lightoj_Solution
+Give A Little Thanks
